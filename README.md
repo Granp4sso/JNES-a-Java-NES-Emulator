@@ -1,2 +1,2 @@
 # JNES-a-Java-NES-Emulator
-A Java NES emulator developed during Mc.S. in collaboration with Francesco Vitale and Daniele Ottaviano
+An emulation of the NES architecture developed in java. All the software architecture is detailed with several diagrams. (This is a university project coded in collaboration with three collegues Stefano Mercogliano, Francesco Vitale, and Carmine Marra). 
